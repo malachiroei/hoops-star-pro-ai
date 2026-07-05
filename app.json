@@ -40,6 +40,13 @@
           "microphonePermission": "Allow Hoops Star Pro to access your microphone to record audio during sessions.",
           "recordAudioAndroid": true
         }
+      ],
+      [
+        "react-native-vision-camera",
+        {
+          "cameraPermissionText": "HoopCoach requires access to the camera for real-time AI basketball shot tracking and video highlight analysis.",
+          "enableMicrophonePermission": false
+        }
       ]
     ],
     "experiments": {
